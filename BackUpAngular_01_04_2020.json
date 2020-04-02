@@ -1,0 +1,21 @@
+{
+  "equipo" : [ {
+    "frase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+    "nombre" : "Lucas Menna",
+    "subtitulo" : "Instructor",
+    "twitter" : "@fernado_her_85",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-2735a.appspot.com/o/team-1.jpg?alt=media&token=a42c2cb9-cbb0-4ae8-ab22-18d4e0bbe306"
+  }, {
+    "frase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+    "nombre" : "Melisa Flores",
+    "subtitulo" : "Ing en Sistemas",
+    "twitter" : "@melisa_flores",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-2735a.appspot.com/o/team-2.jpg?alt=media&token=d4b80ac2-4d20-4e16-bf6e-b95970330b79"
+  }, {
+    "frase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+    "nombre" : "Mariano Vallejo",
+    "subtitulo" : "Lic en Marketin",
+    "twitter" : "@mariano_07",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-2735a.appspot.com/o/team-3.jpg?alt=media&token=4b9e68f1-0988-49b0-bb01-07be50b06089"
+  } ]
+}
